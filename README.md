@@ -39,8 +39,8 @@ The dashboard offers:
 
 ## 🗂️ Project Files
 
-- `Blinkit_Sales_Report.pbix` – Power BI report file  
-- `Dashboard Screenshot.png` – Dashboard image  
+- `BLINKIT SALES REPORT.pbix` – Power BI report file  
+- `DASHBOARD OVERVIEW.png` – Dashboard image  
 - `README.md` – Project documentation  
 
 ---
